@@ -1,16 +1,18 @@
 <div align="center">
 
-# 👋 Olá, eu sou Alecs
+# 👋 Olá! Sou Alecs Santana
 
-### 💻 Desenvolvedor em formação
+### 💻 Desenvolvedor Full Stack em Evolução
 
-Construindo projetos, aprendendo na prática e evoluindo um código de cada vez.
+Criando soluções inovadoras, aprendendo na prática e construindo projetos que fazem diferença. Apaixonado por tecnologia, dados e boas práticas de desenvolvimento.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USUARIO)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlecsSantana)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 
 </div>
 
@@ -18,103 +20,180 @@ Construindo projetos, aprendendo na prática e evoluindo um código de cada vez.
 
 ## 🧑‍💻 Sobre mim
 
-Sou um desenvolvedor em formação, atualmente focado em **Python**, **bancos de dados** e **lógica de programação**.
+Sou um desenvolvedor em constante evolução, trabalhando com **Python**, **JavaScript/TypeScript** e ferramentas modernas de desenvolvimento. Tenho experiência com **backend robusto** (FastAPI, arquitetura limpa), **dashboards analíticos** (Streamlit, Pandas) e **aplicações SaaS** escaláveis.
 
-Gosto de aprender criando projetos reais, testando ideias e entendendo como as coisas funcionam por trás do código.
+Acredito no aprendizado contínuo, na qualidade do código e na importância de construir projetos reais que resolvem problemas práticos.
 
-> 🚀 Meu objetivo é transformar conhecimento em projetos cada vez mais completos.
+> 🚀 **Objetivo**: Transformar ideias em produtos, aprofundar conhecimentos em Full Stack e contribuir para projetos impactantes.
 
 ---
 
-## ⚡ Stack
+## ⚡ Stack Técnico
 
 <div align="center">
 
-| Área               | Tecnologias               |
-| ------------------ | ------------------------- |
-| 🐍 Linguagem       | **Python**                |
-| 🗄️ Banco de dados | **SQLite / sqlite3**      |
-| 🔧 Versionamento   | **Git / GitHub**          |
-| 🧠 Fundamentos     | **Lógica de programação** |
+| Categoria | Tecnologias |
+|-----------|------------|
+| 🔵 **Backend** | **Python**, **FastAPI**, **SQLAlchemy** |
+| 🟡 **Frontend** | **JavaScript**, **TypeScript**, **CSS** |
+| 🗄️ **Bancos de Dados** | **SQLite**, **PostgreSQL**, **MongoDB** |
+| 📊 **Dados & Analytics** | **Pandas**, **Streamlit** |
+| 🔧 **DevOps & Tools** | **Git**, **GitHub**, **Vercel** |
+| 📚 **Metodologias** | **Clean Architecture**, **RESTful APIs** |
 
 </div>
 
-### 🔎 Explorando
+### 🔍 Explorando & Aprendendo
 
-Também estou conhecendo ferramentas e tecnologias relacionadas ao desenvolvimento e bancos de dados:
+Estou constantemente expandindo meu conhecimento em:
 
-`SQLAlchemy` · `PostgreSQL` · `MySQL` · `MongoDB` · `PyMongo` · `SQLModel` · `Peewee` · `Django ORM` · `FastAPI`
+`Django` · `SQLModel` · `PyMongo` · `Peewee` · `Docker` · `AWS` · `GraphQL` · `React` · `Next.js` · `TailwindCSS`
 
 ---
 
-## 🚀 Projetos
+## 🚀 Meus Projetos
+
+### 💰 **Dashboard Analytics** - Análise de Salários Globais
+**[Repositório](https://github.com/AlecsSantana/Dashboard-Analytics)** | Python • Streamlit • Pandas
+
+Dashboard interativo que analisa tendências salariais globais em Data Science e Tech. Profissionais e recrutadores exploram médias salariais, títulos de cargo e arranjos de trabalho com filtros customizáveis.
+
+**Tecnologias**: Python, Streamlit, Pandas, Análise de Dados
+
+---
+
+### 🏗️ **FastAPI Backend** - API Escalável & Clean Architecture
+**[Repositório](https://github.com/AlecsSantana/FastApi)** | Python • FastAPI • SQLAlchemy
+
+Backend robusto desenvolvido com FastAPI, seguindo princípios de **clean architecture** e práticas recomendadas para desenvolvimento escalável. Inclui estruturação modular, camadas bem definidas e padrões profissionais.
+
+**Tecnologias**: Python, FastAPI, SQLAlchemy, Arquitetura Limpa
+
+---
+
+### 🎨 **SaaS Alecs** - Aplicação Full Stack
+**[Repositório](https://github.com/AlecsSantana/saas-Alecs)** | TypeScript • JavaScript • CSS  
+**[Deploy](https://micro-saas-liard.vercel.app)**
+
+Aplicação SaaS em desenvolvimento, demonstrando habilidades em desenvolvimento full stack moderno. Foco em UX/UI e funcionalidades escaláveis.
+
+**Tecnologias**: TypeScript, JavaScript, CSS, Vercel
+
+---
+
+### 🔐 **Micro SaaS** - Aplicação Web
+**[Repositório](https://github.com/AlecsSantana/micro-saas)** | JavaScript  
+**[Deploy](https://micro-saas-liard.vercel.app)**
+
+Projeto SaaS minimalista focado em funcionalidades essenciais e boas práticas de desenvolvimento frontend.
+
+**Tecnologias**: JavaScript, Vercel
+
+---
+
+### 🧠 **Estudo de Programação** - Plataforma de Aprendizado
+**[Repositório](https://github.com/AlecsSantana/estudo-programacao)** | HTML • CSS • JavaScript  
+**[Deploy](https://estudo-programacao.vercel.app)**
+
+Plataforma interativa para estudar conceitos de programação, com interface responsiva e conteúdo educativo.
+
+**Tecnologias**: HTML, CSS, JavaScript
+
+---
+
+### 📚 **NotebookLM Finanças** - Educação em Value Investing
+**[Repositório](https://github.com/AlecsSantana/NotebookLM-Finan-as-)** | Educação Financeira
+
+Projeto educacional usando NotebookLM para organizar conceitos de **Value Investing** baseados na filosofia de **Warren Buffett** e análise fundamental.
+
+**Conceitos**: Value Investing, Análise Fundamental, Educação Financeira
+
+---
+
+### 🗺️ **Roadmaps** - Guias de Aprendizado
+**[Repositório](https://github.com/AlecsSantana/roadmaps)** 
+
+Coleção de roadmaps pessoais de aprendizado para diferentes tecnologias e conceitos de desenvolvimento.
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-### 🐍 Python Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlecsSantana&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
-Projetos pessoais desenvolvidos para colocar em prática conceitos de programação, lógica e manipulação de dados.
-
-### 🗄️ Database Projects
-
-Projetos utilizando **Python + SQLite**, explorando armazenamento, consulta e gerenciamento de dados.
-
-### 🧪 Experimentos
-
-Pequenos projetos e testes utilizados para aprender novas ideias, ferramentas e conceitos.
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlecsSantana&layout=compact&hide_border=true&theme=github_dark"/>
 
 </div>
 
 ---
 
-## 📈 GitHub
+## 🎯 O que estou focando agora
 
-<div align="center">
+```
+📌 PRIORIDADES ATUAIS:
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+Full Stack Development
+├── Backend: FastAPI + Clean Architecture
+├── Frontend: TypeScript + Vercel
+└── Database: PostgreSQL + SQLAlchemy
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=github_dark"/>
+Projetos SaaS
+├── Escalabilidade
+├── Boas práticas
+└── Deploy profissional
 
-</div>
-
----
-
-## 🎯 Atualmente
-
-```text
-Python
-└── Lógica de programação
-└── Projetos pessoais
-└── Banco de dados
-    └── SQLite / sqlite3
-
-Git & GitHub
-└── Controle de versão
-└── Repositórios
-└── Commits
-└── Organização de projetos
+Análise de Dados
+├── Python + Pandas
+├── Dashboards Streamlit
+└── Insights acionáveis
 ```
 
 ---
 
-## 🛣️ Roadmap
+## 🛣️ Meu Roadmap de Desenvolvimento
 
-* [x] Começar com Python
-* [x] Trabalhar com SQLite
-* [x] Utilizar Git e GitHub
-* [ ] Criar projetos maiores
-* [ ] Aprofundar bancos de dados
-* [ ] Explorar desenvolvimento de aplicações
-* [ ] Construir um portfólio completo
+- [x] Começar com Python
+- [x] Trabalhar com Bancos de Dados (SQLite, PostgreSQL)
+- [x] Dominar Git e GitHub
+- [x] Aprender FastAPI e Clean Architecture
+- [x] Desenvolver projetos SaaS
+- [x] Criar Dashboards com Streamlit
+- [ ] Aprofundar em Docker e DevOps
+- [ ] Explorar Cloud (AWS, GCP)
+- [ ] Contribuir em Open Source
+- [ ] Construir um portfólio ainda mais robusto
+- [ ] Especializar em Full Stack com tecnologias modernas
+
+---
+
+## 💡 Filosofia
+
+```
+"Código limpo não é apenas sobre fazer funcionar,
+é sobre fazer de forma que outros (e você mesmo) entendam.
+Qualidade > Quantidade. Aprendizado > Perfeição."
+```
+
+**Code • Build • Learn • Repeat**
+
+---
+
+## 📫 Vamos conectar?
+
+- 🔗 **GitHub**: [AlecsSantana](https://github.com/AlecsSantana)
+- 💼 Aberto a oportunidades em desenvolvimento backend e fullstack
+- 🤝 Interessado em colaborações e projetos inovadores
 
 ---
 
 <div align="center">
 
-### `while(alive): learn()`
+### `while(passion.isAlive()): { code() && learn() && build() }`
 
-**Code • Learn • Build • Repeat**
+⭐ Obrigado por visitar meu perfil! Fico feliz em compartilhar meu progresso como desenvolvedor.
 
-⭐ Obrigado por visitar meu perfil!
+**Let's build something amazing! 🚀**
 
 </div>

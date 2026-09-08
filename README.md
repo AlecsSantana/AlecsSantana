@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou Alex
+# 👋 Olá, eu sou Alecs
 
-### 💻 Desenvolvedor em formação • Python • Banco de Dados
+### 💻 Desenvolvedor em formação
 
 Construindo projetos, aprendendo na prática e evoluindo um código de cada vez.
 

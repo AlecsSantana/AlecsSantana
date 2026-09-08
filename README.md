@@ -1,114 +1,120 @@
-# 👋 Olá, eu sou Alex!
-
-💻 **Desenvolvedor em formação**
-🐍 Python • 🗄️ SQLite • 🔧 Git & GitHub
-
-Estou aprendendo programação através da prática, criando projetos pessoais e explorando diferentes formas de desenvolver aplicações.
-
----
-
-## 🧠 Sobre mim
-
-* 🐍 Estudando **Python**
-* 🗄️ Trabalhando com **SQLite e `sqlite3`**
-* 🧠 Desenvolvendo minha lógica de programação
-* 🔧 Aprendendo e utilizando **Git e GitHub**
-* 💻 Criando projetos pessoais para colocar meus conhecimentos em prática
-* 🚀 Sempre buscando evoluir como desenvolvedor
-
----
-
-## 🛠️ Tecnologias
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sqlite,git,github" />
+# 👋 Olá, eu sou Alex
+
+### 💻 Desenvolvedor em formação • Python • Banco de Dados
+
+Construindo projetos, aprendendo na prática e evoluindo um código de cada vez.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEU_USUARIO)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)](https://www.sqlite.org/)
 
 </div>
 
 ---
 
-## 🐍 Python
+## 🧑‍💻 Sobre mim
 
-Atualmente utilizo Python para estudar e desenvolver projetos, trabalhando principalmente com:
+Sou um desenvolvedor em formação, atualmente focado em **Python**, **bancos de dados** e **lógica de programação**.
 
-* Lógica de programação
-* Estruturas da linguagem
-* Funções
-* Organização de código
-* Manipulação de dados
-* Integração com bancos de dados
+Gosto de aprender criando projetos reais, testando ideias e entendendo como as coisas funcionam por trás do código.
+
+> 🚀 Meu objetivo é transformar conhecimento em projetos cada vez mais completos.
 
 ---
 
-## 🗄️ Banco de dados
+## ⚡ Stack
 
-Tenho estudado bancos de dados e sua utilização com Python.
+<div align="center">
 
-### SQLite
+| Área               | Tecnologias               |
+| ------------------ | ------------------------- |
+| 🐍 Linguagem       | **Python**                |
+| 🗄️ Banco de dados | **SQLite / sqlite3**      |
+| 🔧 Versionamento   | **Git / GitHub**          |
+| 🧠 Fundamentos     | **Lógica de programação** |
 
-Minha principal experiência atualmente é com **SQLite**, utilizando o `sqlite3` do Python para trabalhar com bancos de dados.
+</div>
 
-Também estou conhecendo outras tecnologias e ferramentas da área:
+### 🔎 Explorando
 
-* SQLAlchemy
-* PostgreSQL
-* MySQL
-* MongoDB / PyMongo
-* SQLModel
-* Peewee
-* Django ORM
+Também estou conhecendo ferramentas e tecnologias relacionadas ao desenvolvimento e bancos de dados:
 
-> Essas tecnologias fazem parte dos meus estudos e exploração, enquanto continuo aprofundando meus conhecimentos.
-
----
-
-## 🔧 Git & GitHub
-
-Utilizo Git e GitHub para:
-
-* 📁 Organizar projetos
-* 📝 Criar commits
-* 🚀 Enviar projetos para o GitHub
-* 🔄 Trabalhar com controle de versão
-* 🧹 Organizar arquivos através do `.gitignore`
+`SQLAlchemy` · `PostgreSQL` · `MySQL` · `MongoDB` · `PyMongo` · `SQLModel` · `Peewee` · `Django ORM` · `FastAPI`
 
 ---
 
-## 📌 Projetos
+## 🚀 Projetos
 
-Aqui você encontrará meus projetos pessoais, exercícios e experimentos desenvolvidos durante meus estudos.
+<div align="center">
 
-Estou construindo meu portfólio aos poucos, sempre buscando transformar o que aprendo em projetos reais.
+### 🐍 Python Projects
+
+Projetos pessoais desenvolvidos para colocar em prática conceitos de programação, lógica e manipulação de dados.
+
+### 🗄️ Database Projects
+
+Projetos utilizando **Python + SQLite**, explorando armazenamento, consulta e gerenciamento de dados.
+
+### 🧪 Experimentos
+
+Pequenos projetos e testes utilizados para aprender novas ideias, ferramentas e conceitos.
+
+</div>
 
 ---
 
-## 📚 Atualmente estudando
+## 📈 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=github_dark"/>
+
+</div>
+
+---
+
+## 🎯 Atualmente
 
 ```text
-Python          ███████████████░░░░░
-SQLite          █████████████░░░░░░
-Git / GitHub    ███████████░░░░░░░░
-Lógica          ██████████████░░░░░░
+Python
+└── Lógica de programação
+└── Projetos pessoais
+└── Banco de dados
+    └── SQLite / sqlite3
+
+Git & GitHub
+└── Controle de versão
+└── Repositórios
+└── Commits
+└── Organização de projetos
 ```
 
 ---
 
-## 🎯 Objetivos
+## 🛣️ Roadmap
 
-* 🚀 Evoluir cada vez mais em Python
-* 🗄️ Aprofundar conhecimentos em bancos de dados
-* 🧠 Melhorar minha lógica de programação
-* 💻 Criar projetos mais completos
-* 🔧 Aprender novas ferramentas e tecnologias
-* 📈 Construir um portfólio sólido
+* [x] Começar com Python
+* [x] Trabalhar com SQLite
+* [x] Utilizar Git e GitHub
+* [ ] Criar projetos maiores
+* [ ] Aprofundar bancos de dados
+* [ ] Explorar desenvolvimento de aplicações
+* [ ] Construir um portfólio completo
 
 ---
 
 <div align="center">
 
-### 🐍 Código, aprendizado e prática.
+### `while(alive): learn()`
 
-**Obrigado por visitar meu perfil!** ⭐
+**Code • Learn • Build • Repeat**
+
+⭐ Obrigado por visitar meu perfil!
 
 </div>
